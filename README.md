@@ -1,3 +1,25 @@
+## Preview
+
+Here’s how the custom button looks:
+The main difference between normal buttons and this button is that u can easily change any border line accoring to your own also u can add thickness or thinness to the middle of the bottom or top lines of button 
+Inshort you can make a button just like u want.
+
+![Button Preview](./assets/screenshots/button.png)
+
+## Installation (for custom button)
+
+To use this custom button, you need to install **react-native-svg**:
+
+
+# Using npm
+npm install react-native-svg
+
+# OR using Yarn
+yarn add react-native-svg
+
+If you plan to use SVG files (not just paths), also install the transformer:
+npm install react-native-svg-transformer
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
